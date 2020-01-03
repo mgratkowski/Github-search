@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github Search</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="open_settings">Open settings</string>
+    <string name="search_hint">Search text</string>
+    <string name="search_empty">Search filed can\'t be empty</string>
+    <string name="no_items">No items</string>
+</resources>
